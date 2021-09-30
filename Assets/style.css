@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Changed div tag to nav */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,10 +33,12 @@ body {
     font-size: 20px;
 }
 
+/* Changed div to nav */
 .header nav ul {
     list-style-type: none;
 }
 
+/* Changed div to nav */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -173,17 +176,20 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+/* Added figcaption tag */
+.search-engine-optimization figcaption h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
+/* Added figcaption tag */
+.online-reputation-management figcaption h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.social-media-marketing h2 {
+/* Added figcaption tag */
+.social-media-marketing figcaption h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -195,6 +201,7 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+/* Added figcaption */
+.footer figcaption {
     font-size: 20px;
 }
