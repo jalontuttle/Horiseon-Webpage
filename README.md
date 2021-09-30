@@ -8,4 +8,4 @@
 ## Usage
 To access the active website, visit this link: https://jalontuttle.github.io/Horiseon-Webpage/ 
 
-![Screenshot](./Horiseon-Webpage/images/Horiseon Screenshot.png) 
+![Screenshot for working website](./assets/Website-Screenshot.png)
